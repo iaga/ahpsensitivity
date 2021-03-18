@@ -1,0 +1,25 @@
+Package: ahpsensitivity
+Title: Sensitivity analysis tools for Multicriteria Decision Making methods
+Version: 0.0.0.9000
+Depends: R (>= 3.6.2)
+Authors@R:
+    c(person("Ileana", "Grave", role = c("aut", "cre"),
+	          email = "igrave@iecologia.unam.mx",
+	          comment = c(ORCID = "0000-0002-1389-1768")),
+	    person("Luis", "Bojorquez-Tapia", role = "aut",
+	          email = "luis@multicriteria.org"),
+	    person("Alejandra", "Estrada-Baron", role = "aut",
+	    email = "ale.esba@gmail.com"))
+Author: Ileana, Grave [aut, cre], Luis, Bojorquez-Tapia [aut], Alejandra, Estrada-Baron [aut]
+Maintainer: Ileana Grave <igrave@iecologia.unam.mx>
+Description: Contains a set of sensitivity analysis tools for two Multicriteria Decision 
+	Making (MDCM) methods: Analytic Hierarchy Process (AHP) and Weighted Sum 
+	Model (WSM). For the AHP, the probability of rank reversals and the most 
+	influential user can be obtained. Moreover, for both methods, the most critical measure of performance can be determined.
+License: GPL-3.0
+Imports: 
+  pracma,
+  matrixStats
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2.9000
