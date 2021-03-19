@@ -15,14 +15,15 @@ methods, the most critical measure of performance can be determined.
 
 ## Installation
 
-You can install the released version of ahpsensitivity from
+<!-- You can install the released version of ahpsensitivity from
 [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
 install.packages("ahpsensitivity")
-```
+``` 
+-->
 
-And the development version from [GitHub](https://github.com/) with:
+You can install the development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
