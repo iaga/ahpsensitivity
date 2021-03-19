@@ -43,7 +43,7 @@ devtools::install_github("iaga/ahpsensitivity")
 <!-- ``` -->
 
 ## Authors
-**Ileana, Grave** [aut, cre], **Luis, Bojorquez-Tapia** [aut], **Alejandra, Estrada-Barón** [aut]
+**Ileana, Grave** [aut, cre], **Luis, Bojórquez-Tapia** [aut], **Alejandra, Estrada-Barón** [aut]
 
 Laboratorio Nacional de Ciencias de la Sostenibilidad,<br>
 Área de Planeación Colaborativa,<br>
