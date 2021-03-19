@@ -43,7 +43,7 @@ devtools::install_github("iaga/ahpsensitivity")
 <!-- ``` -->
 
 ## Authors
-Ileana, Grave [aut, cre], Luis, Bojorquez-Tapia [aut], Alejandra, Estrada-Baron [aut]
+**Ileana, Grave** [aut, cre], **Luis, Bojorquez-Tapia** [aut], **Alejandra, Estrada-Barón** [aut]
 
 Laboratorio Nacional de Ciencias de la Sostenibilidad,<br>
 Área de Planeación Colaborativa,<br>
@@ -51,4 +51,4 @@ Proyecto: Análisis integrado de sistemas socio-ambientales acoplados: desarroll
 
 ## Acknowledgment
 
-This work was supported by Universidad Nacional Autónoma de México (UNAM) [PAPIIT- Proyecto IV100118 An alisis integrado de sistemas socioambientales acoplados: desarrollo de capacidades para la evaluación de la vulnerabilidad costera]
+This work was supported by Universidad Nacional Autónoma de México (UNAM) [PAPIIT IV100118 - Análisis integrado de sistemas socioambientales acoplados: desarrollo de capacidades para la evaluación de la vulnerabilidad costera]
