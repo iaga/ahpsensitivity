@@ -10,8 +10,8 @@
 Contains a set of sensitivity analysis tools for two Multicriteria
 Decision Making (MDCM) methods: Analytic Hierarchy Process (AHP) and
 Weighted Sum Model (WSM). For the AHP, the probability of rank reversals
-and the most influential user can be obtained. Moreover, for both
-methods, the most critical measure of performance can be determined.
+and the most influential user can be obtained. Moreover, for the WSM, 
+the most critical measure of performance can be determined.
 
 ## Installation
 
