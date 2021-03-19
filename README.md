@@ -47,7 +47,7 @@ Ileana, Grave [aut, cre], Luis, Bojorquez-Tapia [aut], Alejandra, Estrada-Baron 
 
 Laboratorio Nacional de Ciencias de la Sostenibilidad,<br>
 Área de Planeación Colaborativa,<br>
-Proyecto: Análisis integrado de sistemas socio-ambientales acoplados: desarrollo de capacidades para la evaluación de la vulnerabilidad costera - IV100118
+Proyecto: Análisis integrado de sistemas socio-ambientales acoplados: desarrollo de capacidades para la evaluación de la vulnerabilidad costera - PAPIIT IV100118
 
 ## Acknowledgment
 
