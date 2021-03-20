@@ -11,11 +11,17 @@ Authors@R:
 	    person("Alejandra", "Estrada-Baron", role = "aut",
 	    email = "ale.esba@gmail.com"))
 Author: Ileana, Grave [aut, cre], Luis, Bojorquez-Tapia [aut], Alejandra, Estrada-Baron [aut]
+Affiliation: Laboratorio Nacional de Ciencias de la Sostenibilidad, Area de Planeacion Colaborativa, UNAM
+Acknowledgment: This work was supported by Universidad Nacional Autonoma de Mexico (UNAM) [PAPIIT IV100118 - Analisis integrado de sistemas 
+	socioambientales acoplados: desarrollo de capacidades para la evaluacion de la vulnerabilidad costera]
 Maintainer: Ileana Grave <igrave@iecologia.unam.mx>
 Description: Contains a set of sensitivity analysis tools for two Multicriteria Decision 
 	Making (MDCM) methods: Analytic Hierarchy Process (AHP) and Weighted Sum 
 	Model (WSM). For the AHP, the probability of rank reversals and the most 
-	influential user can be obtained. Moreover, for both methods, the most critical measure of performance can be determined.
+	influential user can be obtained. Moreover, for both methods, the most critical 
+	measure of performance can be determined (This work was supported by Universidad 
+	Nacional Autónoma de México (UNAM) [PAPIIT IV100118 - Análisis integrado de sistemas 
+	socioambientales acoplados: desarrollo de capacidades para la evaluación de la vulnerabilidad costera])
 License: GPL-3.0
 Imports: 
   pracma,
