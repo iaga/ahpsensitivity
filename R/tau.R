@@ -97,7 +97,7 @@ wsmtau <- function(a_ij, w_j, indice, indice_rho){
 
   bd_indice_dif <- data_frame(aij_data_frame$row, indice_dif_data_frame$indice_dif)%>%
     set_names("row", "indice_dif")
-
+  bd_indice_dif <- as.data.frame(bd_indice_dif)
   #*************************************
   # Se genera un nuevo data frame, con las combinaciones necesarias para realizar el cálculo
 
